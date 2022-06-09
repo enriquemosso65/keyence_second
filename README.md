@@ -1,6 +1,6 @@
 # CRUD
 
-Web app (CRUD) build with Vue, Vuetify,  MongooDB with mongoose -> API Nodejs and Express
+Web app (CRUD) build with Vue, Vuetify,  MongoDB with mongoose -> API Nodejs and Express
 
 CRUD - Local host
 
